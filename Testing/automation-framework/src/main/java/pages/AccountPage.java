@@ -6,5 +6,9 @@ public class AccountPage extends Page {
 
   public AccountPage(WebDriver webDriver){
     super(webDriver);
+    public void pageobs()
+    {
+    	return pageobs();
+    }
   }
 }
